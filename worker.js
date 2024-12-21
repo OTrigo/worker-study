@@ -1,0 +1,1 @@
+self.postMessage("mandando mensagem ao worker")
